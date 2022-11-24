@@ -1,0 +1,17 @@
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\bin\Debug\net6.0-windows\Forms.Calculadora.exe
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\bin\Debug\net6.0-windows\Forms.Calculadora.deps.json
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\bin\Debug\net6.0-windows\Forms.Calculadora.runtimeconfig.json
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\bin\Debug\net6.0-windows\Forms.Calculadora.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\bin\Debug\net6.0-windows\Forms.Calculadora.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.csproj.AssemblyReference.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.Form1.resources
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.csproj.GenerateResource.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.AssemblyInfoInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.AssemblyInfo.cs
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\refint\Forms.Calculadora.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\Forms.Calculadora.genruntimeconfig.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Calculadora\obj\Debug\net6.0-windows\ref\Forms.Calculadora.dll

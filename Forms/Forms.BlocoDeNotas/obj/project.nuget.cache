@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzTvi5z+6emsePo2Uz6LLOoygaDn/A1byuMGBXNgkSoz4ZlR6oDKehxE3lBDaj0pZi3pDwL4kEMgMktsOd+eUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\BadgeSpace-Project_AspNetCore\\Finalizado\\Forms.Interface\\Forms.Interface\\Forms.BlocoDeNotas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

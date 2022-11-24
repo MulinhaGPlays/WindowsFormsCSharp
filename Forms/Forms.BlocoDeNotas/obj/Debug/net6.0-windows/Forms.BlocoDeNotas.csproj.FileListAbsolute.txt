@@ -1,0 +1,17 @@
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\bin\Debug\net6.0-windows\Forms.BlocoDeNotas.exe
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\bin\Debug\net6.0-windows\Forms.BlocoDeNotas.deps.json
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\bin\Debug\net6.0-windows\Forms.BlocoDeNotas.runtimeconfig.json
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\bin\Debug\net6.0-windows\Forms.BlocoDeNotas.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\bin\Debug\net6.0-windows\Forms.BlocoDeNotas.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.csproj.AssemblyReference.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.Interface.FrmInicio.resources
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.AssemblyInfoInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.AssemblyInfo.cs
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\refint\Forms.BlocoDeNotas.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\Forms.BlocoDeNotas.genruntimeconfig.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\BadgeSpace-Project_AspNetCore\Finalizado\Forms.Interface\Forms.Interface\obj\Debug\net6.0-windows\ref\Forms.BlocoDeNotas.dll
